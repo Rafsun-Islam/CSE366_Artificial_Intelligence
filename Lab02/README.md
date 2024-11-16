@@ -51,7 +51,8 @@ This project simulates a **trading agent** for managing smartphone inventory, de
 The graph below represents a typical simulation run:
 
 
-![image](https://github.com/user-attachments/assets/1c4fea4f-1674-455d-a652-a1bf70c6335e)
+![image](https://github.com/user-attachments/assets/3a647f6a-6b36-45a7-be7e-0e6f3f434c2d)
+
 
 
 ## License
